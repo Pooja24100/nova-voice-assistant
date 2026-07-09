@@ -289,8 +289,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 Built as a portfolio project by:
 
-- Name: Your Name
-- GitHub: `https://github.com/your-username`
+- Name: Pooja
+- GitHub: `https://github.com/Pooja24100`
 - LinkedIn: Add your LinkedIn profile
 - Portfolio: Add your portfolio website
 - Email: Add your professional email
